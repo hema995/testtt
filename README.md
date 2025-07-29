@@ -6,18 +6,15 @@
   </div>
     <h3 align="center">Zenime - Ad free anime streaming platform</h3>
     <p align="center">
-  <a href="https://github.com/itzzzme/zenime">
-      <img src="https://img.shields.io/github/stars/itzzzme/zenime" alt="Github Stars">
+  <a href="https://github.com/hema995/testtt">
+      <img src="https://img.shields.io/github/stars/hema995/testtt" alt="Github Stars">
     </a>
-      <img src="https://img.shields.io/github/issues/itzzzme/zenime" alt="Github Issues">
+      <img src="https://img.shields.io/github/issues/hema995/testtt" alt="Github Issues">
      <a href="https://github.com/itzzzme/zenime">
-      <img src="https://img.shields.io/github/forks/itzzzme/zenime" alt="Github Forks" />
+      <img src="https://img.shields.io/github/forks/hema995/testtt" alt="Github Forks" />
     </a>
 </p>
 </p>
-<p align="center">
-    <a href="https://zenime.site">Zenime</a> is an open-source anime streaming service that uses <a href="https://github.com/itzzzme/anime-api">custom</a> API, built using ReactJS with javascript and Tailwind CSS. It lets you easily find any anime with intuitive search & suggestion feature and stream without any ads.
- </p>
 
 <details>
 <summary>View more Features</summary>
@@ -91,7 +88,7 @@ npm start # or npm run dev (to run develepment server)
 
 Host your own instance of <a href="https://zenime.site">Zenime</a>  on vercel
 
-[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/itzzzme/zenime)
+[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/hema995/testtt)
 
 ### Render
 
@@ -115,5 +112,5 @@ If you discover any issues or have suggestions for improvement, please open an i
 
  If you like the project feel free to drop a star ✨. Your appreciation means a lot.
 
-<p align="center" style="text-decoration: none;">Made by <a href="https://github.com/itzzzme" tarGET="_blank">itzzzme 
+<p align="center" style="text-decoration: none;">Made by <a href="https://github.com/hema995" tarGET="_blank">Hema 
 </a>🫰</p>
