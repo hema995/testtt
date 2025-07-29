@@ -70,7 +70,7 @@
 ### 2. Run the following code to clone the repository and install all required dependencies
 
 ```bash
-git clone https://github.com/itzzzme/zenime.git
+git clone https://github.com/hema995/testtt.git
 cd zenime
 npm install # or yarn
 ```
